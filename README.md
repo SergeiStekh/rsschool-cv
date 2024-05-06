@@ -1,1 +1,1 @@
-https://SergeyCodeJs.github.io/rsschool-cv/
+https://sergeistekhcv.netlify.app/

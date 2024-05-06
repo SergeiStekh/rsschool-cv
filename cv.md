@@ -6,20 +6,27 @@
 
 **Phone:** *+48 512 964 497*
 
-**Email:** *sergeysteh@gmail.com*
+**Email:** *sergei.stekh@gmail.com*
 
-**Telegram:** *@SergStekh*
+**Telegram:** *@Sergei_Stekh*
 
 ---
 
 ## Briefly About Myself:
 
-I started my career as a frontend developer in 2019. I am very interested in developing various projects, learning new technologies and applying knowledge in practice.
-Completed training at RS-School (RS 2019 Q3). 
+I'm a frontend engineer with 5 years experience.
 
-After learning, I worked on various freelance projects, but my main passion was programming and creating a startup - a Polish language school. This project uses PHP as the backend, and React is responsible for the frontend. Now this school is working, and many people use the software solutions I wrote, which is very inspiring for new achievements.
+My journey commenced with the creation of an educational SaaS from scratch, where I served as both a product owner and a front-end developer. I was responsible for designing the application's architecture and business logic. I executed various user flows, such as authentication, authorization, and front-end interactions with APIs, including third-party payment services and social network chatbots. This project successfully launched and has positively impacted hundreds of individuals.
 
-For me, programming is not just a hobby, but also a lifestyle, a way to earn money, constant training and self-development. I want to achieve the maximum in this area, and become a truly professional developer.
+Furthermore, I engaged in freelance work as a front-end developer, contributing my expertise to diverse projects, spanning e-commerce and startups.
+
+Presently, I am a software engineer on a project centered around Salesforce Commerce and JavaScript. This project caters to the needs of the UK's largest retailer of motoring and cycling products and services.
+
+During my leisure time, I take on the role of a front-end mentor. In this capacity, I motivate, inspire, and provide support to individuals who are learning JavaScript and React.
+
+For me, coding is a way of life that embodies continuous learning and self-development. I am perpetually in pursuit of methods to enhance code readability, efficiency, and clarity. I adhere to best practices in accessibility, semantic markup, and content separation.
+
+The emergence of web applications from abstract ideas is a remarkable source of inspiration. I aspire to persist in crafting valuable and practical web applications that contribute to simplifying people's lives.
 
 ---
 
@@ -106,7 +113,7 @@ export default function ModulesList({state, modules, setState}) {
 
 ## Experience
 
-- [Polish language school (HTML, CSS, JS, React, PHP)](https://polaka.ru); [Language test example](https://polaka.ru/polaka-free/?render=test&lessonId=1); [Grammar test example](https://polaka.ru/polaka-free/?render=grammar&lessonId=2); [Drag&Drop Example](https://polaka.ru/polaka-free?render=spriazenie&lessonId=2); [Learning words example](https://polaka.ru/polaka-free?render=new_words&lessonId=3);
+- [Polish language school (HTML, CSS, JS, React, PHP)](https://polaka.pl); [Language test example](https://polaka.pl/polaka-free/?render=test&lessonId=1); [Grammar test example](https://polaka.pl/polaka-free/?render=grammar&lessonId=2); [Drag&Drop Example](https://polaka.pl/polaka-free?render=spriazenie&lessonId=2); [Learning words example](https://polaka.pl/polaka-free?render=new_words&lessonId=3);
 
 - [SongBird Game (HTML, CSS, React + Redux)](https://song-bird-portfolio.netlify.app/); [Source code](https://github.com/SergeyCodeJs/song-bird-portfolio);
 
@@ -135,7 +142,4 @@ export default function ModulesList({state, modules, setState}) {
 
 - English - Intermediate/Upper-intermediate;
 
-- Polish - Upper-intermediate;
-
-- Russian - Native.
-
+- Polish.
